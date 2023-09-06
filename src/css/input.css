@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  .header {
+    @apply flex ml-6 mt-6;
+  }
+  .header__btn {
+    @apply cursor-pointer mr-2 h-6 w-6;
+  }
+  .header__title {
+    @apply font-jura text-base;
+  }
+}
