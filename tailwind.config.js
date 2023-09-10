@@ -7,6 +7,7 @@ module.exports = {
       colors: {
         'red-lg': '#ff8d8d',
         'yellow-lg': '#f7fc0e',
+        'bg-dark': '#030303',
       },
       // Configurando fontes no Tailwind:
       fontFamily: {

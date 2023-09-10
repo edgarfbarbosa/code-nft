@@ -4,9 +4,9 @@
 
 @layer base {
   .header {
-    @apply flex ml-6 mt-6;
+    @apply flex items-center ml-6 mt-6;
   }
-  .header__btn {
+  .header__img {
     @apply cursor-pointer mr-2 h-6 w-6;
   }
   .header__title {
