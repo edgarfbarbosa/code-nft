@@ -5,9 +5,12 @@ module.exports = {
     extend: {
       // Adição de cores no Tailwind:
       colors: {
-        'red-lg': '#ff8d8d',
+        'pink-lg': '#ff8d8d',
         'yellow-lg': '#f7fc0e',
         'bg-dark': '#030303',
+        'pink-md': '#e025ce',
+        'green-md': '#4aed52',
+        'pink-strong': '#bd24e6',
       },
       // Configurando fontes no Tailwind:
       fontFamily: {
